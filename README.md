@@ -6,9 +6,9 @@
 </div>
 
 ## Sobre
-- Cursando Sistemas de Informação (UFSM - RS)
-- Cursando Técnico em Informática (UFSM - RS)
-- EBolsista em TI (UFSM - RS)
+- Studying information systems (UFSM - RS)
+- Studying computer technology (UFSM - RS)
+- Working in IT (UFSM - RS)
 
 ## Contatos/Social
 <a href="https://www.linkedin.com/in/deividi-jaeger-55b9a5226/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
