@@ -1,6 +1,4 @@
-<p>Bem vindo(a)! 👋</p>
-<p>\n</p>
-Me chamo!
+Bem vindo(a) 👋 Me chamo!
 ## Deividi Jaeger
 
 <div>
