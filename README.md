@@ -1,14 +1,11 @@
 <h1 align="center">Deividi Jaeger</h1>
 
-## About
-- Studying information systems (UFSM - RS/BR)
+<div>
+<a href="https://github.com/DeividiJaeger">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-## Working in IT
-- LAMIC (UFSM - RS/BR)
-## Contact/Social
-<a href="https://www.linkedin.com/in/deividi-jaeger-55b9a5226/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
-
-## Design
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-
+- 🔭 Atualmente desenvolvendo soluções para Pegasus Science e LAMIC - UFSM.
+- 🌱 Atualmente estou utilizando ReactJS, Tailwind CSS, SQLite, Git e Métodos Ágeis.
+- 📫 Como entrar em contato comigo: deividi.contato@gmail.com.
