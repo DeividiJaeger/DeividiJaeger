@@ -7,4 +7,5 @@ Seja Bem vindo(a) Sou o Deivi. 👋
 Sobre mim 🦾
 - 🔭 Atualmente desenvolvendo soluções para Pegasus Science e LAMIC - UFSM.
 - 🌱 Atualmente estou utilizando ReactJS, NodeJS, Tailwind CSS, SQLite, Git e Métodos Ágeis.
+- 📒 Estou estudando GOlang e UX/UI Design.
 - 📫 Como entrar em contato comigo: deividi.contato@gmail.com.
