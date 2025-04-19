@@ -6,6 +6,4 @@ Seja Bem vindo(a) Sou o Deivi. 👋
  
 Sobre mim: 
 - 🔭 Atualmente desenvolvendo soluções para Moah Semijoias, Pegasus Science e LAMIC - UFSM.
-- 🌱 Utilizo ReactJS, JS, NodeJS, Figma, SQL.
-- 📒 Estou estudando UX/UI Design.
 - 📫 Entre em contato comigo: deividi.contato@gmail.com.
