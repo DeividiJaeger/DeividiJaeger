@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Deividi Jaeger e trabalho principalmente com <strong>web development</strong>.<br> 
-  Atuo como desenvoledor no Instituo Nacional do Seguro Social (INSS) <br> 
+  Olá, me chamo Deividi Jaeger e trabalho principalmente com <strong>web development</strong>.
+  Atuo como desenvoledor no Instituo Nacional do Seguro Social (INSS)
   e curso Sitemas de Informação na Universidade Federal de Santa Maria (UFSM) onde também atuo como
   desenvolvedor e suporte no Laboratório de Análises Micotoxicológicas (LAMIC).
 </p>
@@ -12,10 +12,6 @@
 
 <p align="left">
   💼 Ferramentas e Plataformas: Docker, PostgreSQL, MySQL, Prisma ORM, Git & GitHub, Linux, Nginx, Apache, Tailwind CSS, Figma, Railway, FastAPI, Express, Streamlit.
-</p>
-
-<p align="left">
-  💌 Entre em contato para saber mais sobre como posso ajudar a otimizar processos, desenvolver soluções web e implementar automações inteligentes para o seu negócio!
 </p>
 
 <p align="left">
