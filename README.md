@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, me chamo Deividi Jaeger e trabalho principalmente com <strong>web development</strong>.<br> 
   Atuo como desenvoledor no Instituo Nacional do Seguro Social (INSS) <br> 
-  e curso Sitemas de Informação na Universidade Federal de Santa Maria (UFSM) onde também atuo como<br>
+  e curso Sitemas de Informação na Universidade Federal de Santa Maria (UFSM) onde também atuo como
   desenvolvedor e suporte no Laboratório de Análises Micotoxicológicas (LAMIC).
 </p>
 <p align="left">
